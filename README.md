@@ -19,7 +19,7 @@
 
 ### **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,git," />
+  <img src="https://skillicons.dev/icons?i=androidstudio,git,intelliJ" />
 </p>
 
 ---
